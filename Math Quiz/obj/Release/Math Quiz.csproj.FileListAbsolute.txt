@@ -1,9 +1,0 @@
-C:\Users\김형준\OneDrive - 강원대학교\C# Repos\Math Quiz\bin\Release\Math Quiz.exe.config
-C:\Users\김형준\OneDrive - 강원대학교\C# Repos\Math Quiz\bin\Release\Math Quiz.exe
-C:\Users\김형준\OneDrive - 강원대학교\C# Repos\Math Quiz\bin\Release\Math Quiz.pdb
-C:\Users\김형준\OneDrive - 강원대학교\C# Repos\Math Quiz\obj\Release\Math_Quiz.Form1.resources
-C:\Users\김형준\OneDrive - 강원대학교\C# Repos\Math Quiz\obj\Release\Math_Quiz.Properties.Resources.resources
-C:\Users\김형준\OneDrive - 강원대학교\C# Repos\Math Quiz\obj\Release\Math Quiz.csproj.GenerateResource.cache
-C:\Users\김형준\OneDrive - 강원대학교\C# Repos\Math Quiz\obj\Release\Math Quiz.csproj.CoreCompileInputs.cache
-C:\Users\김형준\OneDrive - 강원대학교\C# Repos\Math Quiz\obj\Release\Math Quiz.exe
-C:\Users\김형준\OneDrive - 강원대학교\C# Repos\Math Quiz\obj\Release\Math Quiz.pdb
