@@ -66,7 +66,7 @@ namespace Math_Quiz
         Quiz_Data quiz_data = null;
         int time_left; //남은 시간
 
-        public void start_quiz() //퀴즈 시작
+        private void start_quiz() //퀴즈 시작
         {
             rand = new Random();
                 
@@ -103,7 +103,7 @@ namespace Math_Quiz
             timer.Start();
         }
 
-        public bool chk_answer() //정답 확인
+        private bool chk_answer() //정답 확인
         {
             if ((decimal)(quiz_data.Quiz_number[0] + quiz_data.Quiz_number[1]) == sum.Value &&
                (decimal)(quiz_data.Quiz_number[2] - quiz_data.Quiz_number[3]) == difference.Value &&
